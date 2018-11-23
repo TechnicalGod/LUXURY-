@@ -1,0 +1,60 @@
+.LogoSizi{
+    margin-top: -52px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+    /* text-indent: 2em; */
+    background: url('http://imgsrc.baidu.com/imgad/pic/item/63d0f703918fa0ecbbf520362d9759ee3d6ddbdf.jpg')center center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    text-transform:uppercase;/*文本的转换 值: uppercase(全大写) | lowercase(全小写) | capitalize(首字母大写) | none | inherit*/
+    word-spacing:2em;/*用来设置文字或单词之间的间距,单词之间的间距*/
+    letter-spacing:4px;/*字母间的间隔*/
+}
+/* 侧边栏背景颜色 */
+.ant-layout-sider{
+    background: #fff;
+}
+/* 侧边栏ul右边线 */
+.ant-menu{
+    border-right: none;
+}
+/* 
+/*文本的颜色*/
+ 
+/* line-height: 20px; */
+/*为文本设置行高*/
+
+/* text-align: center;   */
+/*水平对齐是影响一个元素中的文本的水平对齐方式。　值: left | center | right | justify | inherit*/
+
+/* text-indent: 2em;   */
+/*文本缩进。length/inherit/initial（长度、继承、最初始的值)*/
+
+/* text-decoration:none;   */
+/*none | [underline(下划线) || overline(上划线) || line-through(中划线)] | inherit*/
+
+/* text-transform:uppercase; */
+/*文本的转换 值: uppercase(全大写) | lowercase(全小写) | capitalize(首字母大写) | none | inherit*/
+
+/* word-spacing:2em; */
+/*用来设置文字或单词之间的间距,单词之间的间距 = word-spacing + 空格大小 值: <length> | normal | inherit*/
+
+/* letter-spacing:4px; */
+/*字母间的间隔*/
+
+/* white-space:nowrap; */
+/*设置文本的空白区域的处理方式  值:nowrap 不留空白 + pre-wrap 保留空白 + pre-line 合并空白符 + pre采用文本的默认样式*/
+
+/* text-shadow: 2px 2px #3e1f1f; */
+/*设置文本的文字阴影*/
+
+/* text-justify: inter-word; */
+/*改变字与字指之间的距离  值：auto|inter-word|inter-ideograph|inter-cluster|distribute|kashida|trim;*/
+
+/* text-outline:2px 2px #ff0000; */
+/*text-outline设置是文本的轮廓 所有的主流浏览器都不支持 */
+
+/* text-overflow:hidden; */
+/* 设置文本溢出时的文本显示效果 */ 
